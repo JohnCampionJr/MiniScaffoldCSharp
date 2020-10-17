@@ -45,5 +45,5 @@ For private repositories, setup your CODECOV_TOKEN in Secrets
 
 ### Thanks
 
-[MongoFramework](https://github.com/TurnerSoftware/MongoFramework) - Learned much about good workflows, and @turnerj's version code ans build script were much appreciated
+[MongoFramework](https://github.com/TurnerSoftware/MongoFramework) - Learned much about good workflows, and @turnerj's version code and build script were much appreciated  
 [Dotnetlayout](https://gist.github.com/davidfowl/ed7564297c61fe9ab814) - @davidfowl's structure was very helpful
