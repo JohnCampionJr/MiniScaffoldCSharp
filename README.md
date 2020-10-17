@@ -36,7 +36,7 @@ Extra comments in PR are major visual distractions and make conversation harder.
 - PR Comments: Disabled
 - PR Summary: Disabled
 
-**Codecov** - _GitHub Integration_ - Configure on codecov.io
+**Codecov** - _GitHub Integration_ - Configure on codecov.io  
 For private repositories, setup your CODECOV_TOKEN in Secrets
 
 ### References 
